@@ -1,2 +1,2 @@
 # examPrep
-Repo with all the code I wrote as preparation for my programming exams
+Repo with all the code I wrote as preparation for my programming exam
